@@ -8,7 +8,7 @@ Navigate to your iOS project directory, run `fastlane init`, and follow the prom
   - fastlane/Fastfile, which stores your deployment pipelines (lanes)
   - fastelane/Appfile, which stores your Apple ID and Bundle ID
 
-Then, run `snapshot init`, and follow the prompts. The command will create the following:
+Then, run `fastlane snapshot init`, and follow the prompts. The command will create the following:
 
 - A fastlane/Snapfile, which stores `snapshot` config
 
